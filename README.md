@@ -1,4 +1,4 @@
-### 🫡 Hi there
+### Hi there 🫡
 
 ### A bit about me
 My name is Anu (he/him). I am a software engineer based in New York City.
