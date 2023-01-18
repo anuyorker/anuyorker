@@ -1,16 +1,24 @@
-### Hi there 👋
+### 🫡 Hi there
+
+### A bit about me
+My name is Anu (he/him). I am a software engineer based in New York City.
+
+I love coffee, anime/manga, lifting, Super Smash Brothers, and coding. 
+
+![Bulbasaur](https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif)
+
+### Work
+
+I'm currently working on software that helps e-commerce businesses grow at [ShipMonk](https://www.shipmonk.com/).
+
+### Extra
+
+I like playing with different technologies in my spare time. Lately I've been learning Rust.
+
+I am a strong advocate for open source, and I'm usually open to contributing to fun or interesting projects.
+
+(Neovim user btw 😛)
 
 <!--
 **anuyorker/anuyorker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
