@@ -1,9 +1,7 @@
 ### Hi there 🫡
 
 ### A bit about me
-My name is Anu (he/him). I am a software engineer based in New York City.
-
-I love coffee, anime/manga, lifting, Super Smash Brothers, and coding. 
+My name is Anu (he/him). I am a software engineer based in New York City. I love coffee, anime/manga, lifting, Super Smash Brothers, and coding. 
 
 ![Bulbasaur](https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif)
 
