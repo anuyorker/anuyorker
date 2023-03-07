@@ -15,7 +15,7 @@ I'm currently working on software that helps e-commerce businesses grow at [Ship
 
 I like playing with different technologies in my spare time. Lately I've been learning Rust. I'm also an avid nvim user.
 
-I am a strong advocate for open source, and I'm usually open to contributing to fun or interesting projects.
+I am a strong advocate for open source, and I'm open to contributing to fun or interesting projects.
 
 <!--
 **anuyorker/anuyorker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
