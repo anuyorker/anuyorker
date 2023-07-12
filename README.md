@@ -13,8 +13,6 @@ I'm currently working on software that helps e-commerce businesses grow at [Ship
 
 ### Extra
 
-I like playing with different technologies in my spare time. Lately I've been learning Rust. I'm also an avid nvim user.
-
 I am a strong advocate for open source, and I'm open to contributing to fun or interesting projects.
 
 <!--
