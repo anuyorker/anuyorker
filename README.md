@@ -3,7 +3,7 @@
 ### A bit about me
 My name is Anu (he/him). I am a software engineer based in New York City.
 
-I love coffee, anime/manga, fitness, and coding. 
+I love coffee, anime/manga, fitness, and building useful things. 
 
 ![Bulbasaur](https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif)
 
