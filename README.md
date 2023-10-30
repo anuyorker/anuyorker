@@ -1,7 +1,7 @@
 ### Hi there 🫡
 
 ### A bit about me
-My name is Anu (he/him). I am a software engineer based in New York City.
+My name is Anu. I am a software engineer based in New York City.
 
 I love coffee, anime/manga, fitness, and building useful things. 
 
